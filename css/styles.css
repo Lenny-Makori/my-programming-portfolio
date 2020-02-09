@@ -1,0 +1,16 @@
+h1{
+  text-align: center;
+  color: blue;
+}
+.intro{
+  text-align: left;
+  color: green;
+}
+.sidebar{
+  color: orange;
+  float: right;
+  border: 20px red;
+}
+img{
+  float: left;
+}
