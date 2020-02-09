@@ -8,9 +8,11 @@ h1{
 }
 .sidebar{
   color: orange;
-  float: right;
+  float: left;
   border: 20px red;
+  margin: 20px;
 }
 img{
   float: left;
+  border: 15px;
 }
