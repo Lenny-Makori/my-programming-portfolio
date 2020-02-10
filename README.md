@@ -15,5 +15,5 @@
 ## Support and contact details
 {In case you encounter any problems in the installation process, you can contact me on makorilenny28@gmail.com.}
 ### License
-*{  GPL.}*
-Copyright (c) {year} **{Lenny-Makori}**
+*{  GPL license}*
+Copyright (c) {2019} **{Lenny-Makori}**
